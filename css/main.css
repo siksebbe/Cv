@@ -55,10 +55,6 @@ a:hover {
 .float-fix{
 	clear: both;
 }
-.bowl{
-	width: 100px;
-	height: 100px;
-}
 .animated-circle{
 	position: relative;
 	top: 0px;
@@ -83,8 +79,4 @@ a:hover {
 	72%{background:red; left:25%; top: 60px;}
 	84%{background: blue; left: 0%; top: 70px;}
 	100%{background:green; left: 0%; top:0px;}
-}
-@-webkit-keyframes bowl{
-	0%{}
-
 }
